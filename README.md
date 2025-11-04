@@ -33,10 +33,10 @@
 ###
 
 <p align="left">
-  I'm Eduard, a passionate developer and entrepreneur.<br><br>
-  - 🔭 I’m currently working on <strong>NETROWS — B2B data, zero noise</strong><br>
-  - 📚 I'm always learning new technologies and improving my skills<br>
-  - ⚡ In my free time I enjoy building side projects and contributing to open source
+  I'm Eduard — builder, creator, and B2B data wizard.<br><br>
+  - 🚀 Growing NETROWS, on a mission to make B2B data clean, powerful, and actionable.<br>
+  - 💡 Always prototyping, learning, and hacking with the newest tech.<br>
+  - 🌍 Side projects, open source & exploring new ideas fuel my energy outside work.
 </p>
 
 ###
