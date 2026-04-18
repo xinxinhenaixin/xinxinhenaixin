@@ -1,92 +1,35 @@
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnU1bTJ0bWZxYWx5cXdiMTYxdzk0ZG92cjY0eGljNTQyNzdoeGlreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/63yqn9cegEp6yQ3Wg9/giphy.gif"  />
-</div>
+# Hi, I'm Eduard 👋
 
-###
+📍 **Spain** | � **Practice beats talent** | 🧠 **B2B data & AI tools**
 
-<div align="center">
-  <a href="https://github.com/xinxinhenaixin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/eduard-mihai-cioculescu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/eduardmcio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-###
+> Building B2B data infrastructure and AI-native tools. Shipping fast, learning faster.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xinxinhenaixin&label=Profile%20views&color=0e75b6&style=flat" alt="xinxinhenaixin" />
-</div>
+## Current Projects
 
-###
+- 📧 **[emailfinder.dev](https://emailfinder.dev)** — Real-time email discovery API. Find verified professional emails by name, domain, LinkedIn, or role. Every lookup verified live via SMTP.
+- 🤖 **[emailfinder-mcp](https://github.com/xinxinhenaixin/emailfinder-mcp)** — MCP server for emailfinder.dev. Use it directly from Claude, Cursor, or Kiro.
+- 📊 **[NETROWS](https://netrows.com)** — Real-time B2B data API. 51 sources, one API — enrich leads, monitor prospects, and track company signals globally.
 
-<h1 align="center">hey there 👋</h1>
+## Connect
 
-###
+[![LinkedIn](https://img.shields.io/badge/-Eduard_Cioculescu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-mihai-cioculescu)
+[![Twitter](https://img.shields.io/badge/-@eduardmcio-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/eduardmcio)
+[![emailfinder.dev](https://img.shields.io/badge/-emailfinder.dev-000000?style=flat-square&logo=mail.ru&logoColor=white)](https://emailfinder.dev)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xinxinhenaixin)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### Philosophy
 
-<p align="left">
-  I'm Eduard — builder, creator, and B2B data wizard.<br><br>
-  - 🚀 Growing NETROWS, on a mission to make B2B data clean, powerful, and actionable.<br>
-  - 💡 Always prototyping, learning, and hacking with the newest tech.<br>
-  - 🌍 Side projects, open source & exploring new ideas fuel my energy outside work.
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-</div>
-
-###
-
-<h3 align="center">🔥 My Streak</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xinxinhenaixin&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" />
-</div>
+> Build things people actually use. Ship beats perfect. Price it fairly.
