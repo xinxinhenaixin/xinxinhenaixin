@@ -19,7 +19,8 @@
 
 - 📧 **[emailfinder.dev](https://emailfinder.dev)** — Real-time email discovery API. Find verified professional emails by name, domain, LinkedIn, or role. Every lookup verified live via SMTP.
 - 🤖 **[emailfinder-mcp](https://github.com/xinxinhenaixin/emailfinder-mcp)** — MCP server for emailfinder.dev. Use it directly from Claude, Cursor, or Kiro.
-- 📊 **[NETROWS](https://netrows.com)** — Real-time B2B data API. 51 sources, one API — enrich leads, monitor prospects, and track company signals globally.
+- 📊 **[NETROWS](https://netrows.com)** — Real-time B2B data API. 55 sources, one API — enrich leads, monitor prospects, and track company signals globally.
+- 🏭 **[Kooperativa.io](https://kooperativa.io/)** — Unlimited B2B data. One flat license, every endpoint.
 
 ## Connect
 
